@@ -9,8 +9,6 @@ hello world
 hello world
 no hello
 no thanks
-<<<<<<< HEAD
-=======
 2
 1
 增加文件内容
