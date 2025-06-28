@@ -9,6 +9,3 @@ hello world
 hello world
 no hello
 no thanks
-2
-1
-changes
