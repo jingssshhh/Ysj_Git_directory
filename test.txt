@@ -9,3 +9,9 @@ hello world
 hello world
 no hello
 no thanks
+<<<<<<< HEAD
+=======
+2
+1
+changes by clone
+>>>>>>> fccba29125bf581571066d1edae85a34ca07213d
